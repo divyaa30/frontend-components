@@ -5,4 +5,4 @@
 
 ### Preview
 
-![](https://github.com/divyaa30/frontend-componets/blob/main/Folding-Card-Css-Animation/assets/prototype.gif)
+![](https://github.com/divyaa30/frontend-componets/blob/main/Animated-Login-Form/Assets/Login-Form%20Design%20New.gif)
