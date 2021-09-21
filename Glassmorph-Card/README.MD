@@ -5,5 +5,5 @@
 
 ### Preview
 
-![](https://github.com/divyaa30/frontend-componets/blob/main/Folding-Card-Css-Animation/assets/prototype.gif)
+![](https://github.com/divyaa30/frontend-componets/blob/main/Glassmorph-Card/assets/Glassmorph%20Card%20design%20-%20Google%20Chrome%202021-09-22%2002-40-01.gif)
 
