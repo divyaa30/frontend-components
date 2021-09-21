@@ -74,3 +74,43 @@ body{
     color: black;
     font-size: 1.3em;
     font-weight: 900;
+
+}
+.content .userDetails span{
+    font-size: 0.7em;
+    color: #FD3A69;
+    font-weight: 500;
+}
+
+.socialMedia{
+    position: relative;
+    display: flex;
+    margin-top: 10px;
+}
+
+.socialMedia li{
+    list-style: none;
+    margin: 5px;
+}
+
+.socialMedia li a{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    border-radius: 50%;
+    background: transparent;
+    font-size: 1em;
+    color: #161616;
+    text-decoration: none;
+    box-shadow: 0 7px 15px rgba(0, 0, 0, 0.2);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+
+.socialMedia li a:hover{
+    background: #FD3A69;
+    color: #fff;
+    font-size: 1.2em;
+}
